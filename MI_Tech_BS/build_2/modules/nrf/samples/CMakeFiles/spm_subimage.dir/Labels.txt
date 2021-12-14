@@ -1,0 +1,13 @@
+# Target labels
+ spm_subimage
+# Source files and their labels
+C:/nordicsemi/MI_Tech_BS/MI_Tech_BS/build_2/modules/nrf/samples/CMakeFiles/spm_subimage
+C:/nordicsemi/MI_Tech_BS/MI_Tech_BS/build_2/modules/nrf/samples/CMakeFiles/spm_subimage.rule
+C:/nordicsemi/MI_Tech_BS/MI_Tech_BS/build_2/modules/nrf/samples/CMakeFiles/spm_subimage-complete.rule
+C:/nordicsemi/MI_Tech_BS/MI_Tech_BS/build_2/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-install.rule
+C:/nordicsemi/MI_Tech_BS/MI_Tech_BS/build_2/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-mkdir.rule
+C:/nordicsemi/MI_Tech_BS/MI_Tech_BS/build_2/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-download.rule
+C:/nordicsemi/MI_Tech_BS/MI_Tech_BS/build_2/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-update.rule
+C:/nordicsemi/MI_Tech_BS/MI_Tech_BS/build_2/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-patch.rule
+C:/nordicsemi/MI_Tech_BS/MI_Tech_BS/build_2/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-configure.rule
+C:/nordicsemi/MI_Tech_BS/MI_Tech_BS/build_2/modules/nrf/samples/spm_subimage-prefix/src/spm_subimage-stamp/spm_subimage-build.rule
